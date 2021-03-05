@@ -1,0 +1,8 @@
+D:\StatementConstructors\StatementConstructors\StatementConstructors\bin\Debug\StatementConstructors.exe.config
+D:\StatementConstructors\StatementConstructors\StatementConstructors\bin\Debug\StatementConstructors.exe
+D:\StatementConstructors\StatementConstructors\StatementConstructors\bin\Debug\StatementConstructors.pdb
+D:\StatementConstructors\StatementConstructors\StatementConstructors\obj\Debug\StatementConstructors.WhatCanISay.resources
+D:\StatementConstructors\StatementConstructors\StatementConstructors\obj\Debug\StatementConstructors.csproj.GenerateResource.cache
+D:\StatementConstructors\StatementConstructors\StatementConstructors\obj\Debug\StatementConstructors.csproj.CoreCompileInputs.cache
+D:\StatementConstructors\StatementConstructors\StatementConstructors\obj\Debug\StatementConstructors.exe
+D:\StatementConstructors\StatementConstructors\StatementConstructors\obj\Debug\StatementConstructors.pdb
